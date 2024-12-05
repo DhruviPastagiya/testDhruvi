@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Noto+Serif+Ahom&display=swap');
+
+h1{
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    color: green;
+    background-color: yellowgreen;
+
+}
+
+p{
+    font-family: "Noto Serif Ahom", serif;
+    color: green;
+    background-color: yellowgreen;
+
+}
